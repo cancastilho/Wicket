@@ -1,3 +1,5 @@
 *sublime*
 node_modules
+dist
 .idea/*
+tests/typescript/package-lock.json

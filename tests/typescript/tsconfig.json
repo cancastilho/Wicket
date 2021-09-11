@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "target": "ES5",
+    "module": "commonjs"
+  }
+}
